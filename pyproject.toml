@@ -17,7 +17,7 @@ readme = "README.rst"
 authors = [
     {name = "Falco Gerritsjans", email = "contact@falco.pro"}
 ]
-urls = {Homepage = "https://github.com/adafruit/Adafruit_CircuitPython_SSD1680"}
+urls = {Homepage = "https://github.com/FalcoG/CircuitPython_Waveshare_EPD"}
 keywords = [
     "blinka",
     "circuitpython",
