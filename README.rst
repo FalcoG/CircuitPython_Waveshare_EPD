@@ -61,7 +61,7 @@ To install in a virtual environment in your current project:
 Usage Example
 =============
 
-See ``/examples/waveshare_2in66b.py``
+See `/examples/waveshare_2in66b.py <https://github.com/FalcoG/CircuitPython_Waveshare_EPD/blob/main/examples/waveshare_2in66b.py>`_
 
 Documentation
 =============
@@ -74,5 +74,5 @@ Contributing
 ============
 
 Contributions are welcome! Please read our `Code of Conduct
-<https://github.com/adafruit/Adafruit_CircuitPython_SSD1680/blob/main/CODE_OF_CONDUCT.md>`_
+<https://github.com/FalcoG/CircuitPython_Waveshare_EPD/blob/main/CODE_OF_CONDUCT.md>`_
 before contributing to help this project stay welcoming.

@@ -46,7 +46,7 @@ source_suffix = ".rst"
 master_doc = "index"
 
 # General information about the project.
-project = "Adafruit  CircuitPython SSD1680 Library"
+project = "Waveshare  CircuitPython EPD Library"
 creation_year = "2021"
 current_year = str(datetime.datetime.now().year)
 year_duration = (
@@ -126,7 +126,7 @@ html_static_path = ["_static"]
 html_favicon = "_static/favicon.ico"
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = "Adafruit_CircuitPython_Ssd1680Librarydoc"
+htmlhelp_basename = "CircuitPython_Waveshare_EPDLibrarydoc"
 
 # -- Options for LaTeX output ---------------------------------------------
 
@@ -147,8 +147,8 @@ latex_elements = {
 latex_documents = [
     (
         master_doc,
-        "Adafruit_CircuitPython_SSD1680Library.tex",
-        "Adafruit CircuitPython SSD1680 Library Documentation",
+        "CircuitPython_Waveshare_EPDLibrary.tex",
+        "CircuitPython Waveshare EPD Library Documentation",
         author,
         "manual",
     ),
@@ -161,8 +161,8 @@ latex_documents = [
 man_pages = [
     (
         master_doc,
-        "Adafruit_CircuitPython_SSD1680Library",
-        "Adafruit CircuitPython SSD1680 Library Documentation",
+        "CircuitPython_Waveshare_EPD",
+        "CircuitPython Waveshare EPD Library Documentation",
         [author],
         1,
     ),
@@ -176,10 +176,10 @@ man_pages = [
 texinfo_documents = [
     (
         master_doc,
-        "Adafruit_CircuitPython_SSD1680Library",
-        "Adafruit CircuitPython SSD1680 Library Documentation",
+        "CircuitPython_Waveshare_EPDLibrary",
+        "CircuitPython Waveshare EPD Library Documentation",
         author,
-        "Adafruit_CircuitPython_SSD1680Library",
+        "CircuitPython_Waveshare_EPDLibrary",
         "One line description of project.",
         "Miscellaneous",
     ),

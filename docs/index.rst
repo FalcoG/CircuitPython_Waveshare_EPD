@@ -29,14 +29,12 @@ Table of Contents
 .. toctree::
     :caption: Related Products
 
-    Adafruit 2.13" 250x122 Tri-Color eInk / ePaper Display with SRAM - SSD1680 Driver <https://www.adafruit.com/product/4947>
-    Adafruit 2.13" HD Tri-Color eInk / ePaper Display FeatherWing <https://www.adafruit.com/product/4814>
-    Adafruit 2.13" Mono eInk Display FeatherWing <https://www.adafruit.com/product/4195>
+    Waveshare 2.66" Tri-Color ePaper Display <https://www.waveshare.com/wiki/2.66inch_e-Paper_Module_(B)_Manual>
 
 .. toctree::
     :caption: Other Links
 
-    Download from GitHub <https://github.com/adafruit/Adafruit_CircuitPython_SSD1680/releases/latest>
+    Download from GitHub <https://github.com/FalcoG/CircuitPython_Waveshare_EPD/releases/latest>
     Download Library Bundle <https://circuitpython.org/libraries>
     CircuitPython Reference Documentation <https://docs.circuitpython.org>
     CircuitPython Support Forum <https://forums.adafruit.com/viewforum.php?f=60>
