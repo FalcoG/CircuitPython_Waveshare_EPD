@@ -10,20 +10,20 @@ requires = [
 ]
 
 [project]
-name = "adafruit-circuitpython-ssd1680"
-description = "CircuitPython `displayio` drivers for SSD1680-based ePaper displays"
+name = "circuitpython-waveshare-epd"
+description = "CircuitPython `displayio` drivers for Waveshare-based ePaper displays"
 version = "0.0.0+auto.0"
 readme = "README.rst"
 authors = [
-    {name = "Adafruit Industries", email = "circuitpython@adafruit.com"}
+    {name = "Falco Gerritsjans", email = "contact@falco.pro"}
 ]
 urls = {Homepage = "https://github.com/adafruit/Adafruit_CircuitPython_SSD1680"}
 keywords = [
-    "adafruit",
     "blinka",
     "circuitpython",
     "micropython",
-    "ssd1680",
+    "2in66b",
+    "waveshare",
     "displayio",
     "epd",
     "epaper",
@@ -40,7 +40,7 @@ classifiers = [
 dynamic = ["dependencies", "optional-dependencies"]
 
 [tool.setuptools]
-py-modules = ["adafruit_ssd1680"]
+py-modules = ["waveshare_epd_driver"]
 
 [tool.setuptools.dynamic]
 dependencies = {file = ["requirements.txt"]}
